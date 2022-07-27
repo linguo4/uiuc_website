@@ -18,12 +18,15 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: Lin is a current master’s student in Statistics. He is interested in studying climate change and air pollution associated with human activities by machine learning and other statistical methods. He is also looking for application of Artificial Intelligence in air quality control. He expects a world with better air quality.
+bio: Lin is a current PhD student. He is interested in studying climate change and air pollution associated with human activities by machine learning and other statistical methods. He is also looking for application of Artificial Intelligence in air quality control. He expects a world with better air quality.
 
 interests:
 
 education:
   courses:
+   - course: M.S., Statistics
+    institution: University of Illinois at Urbana-Champaign
+    year: 2020
   - course: M.S., Civil Engineering
     institution: University of Illinois at Urbana-Champaign
     year: 2016
@@ -54,4 +57,4 @@ user_groups:
 - "Students"
 ---
 
-Lin is a current master’s student in Statistics. He is interested in studying climate change and air pollution associated with human activities by machine learning and other statistical methods. He is also looking for application of Artificial Intelligence in air quality control. He expects a world with better air quality.
+Lin is a current current PhD student. He is interested in studying climate change and air pollution associated with human activities by machine learning and other statistical methods. He is also looking for application of Artificial Intelligence in air quality control. He expects a world with better air quality.
