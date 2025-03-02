@@ -24,12 +24,12 @@ interests:
 
 education:
   courses:
-  - course: M.S., Civil Engineering
+  - course: Ph.D. candidate, Informatics
     institution: University of Illinois at Urbana-Champaign
-    year: 2016
+  - course: M.S., Civil Engineering, Computer Science, Statistics
+    institution: University of Illinois at Urbana-Champaign
   - course: B.C.E., Civil Engineering
     institution: Tianjin University
-    year: 2013
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
